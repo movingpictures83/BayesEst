@@ -1,0 +1,205 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: BayesEst
+Oct 11, 2023 10:47:51 PM java.util.prefs.FileSystemPreferences$6 run
+WARNING: Prefs file removed in background /lclhome/tcickovs/.java/.userPrefs/prefs.xml
+X0 _||_ X1 score = -8.26E-1
+X0 _||_ X2 score = -1.09E-1
+X0 _||_ X4 score = -2.73E-1
+X0 _||_ X5 score = -4.38E-1
+X0 _||_ X6 score = -6.63E-1
+X0 _||_ X7 score = -3.76E-2
+X0 _||_ X8 score = -9.15E-1
+X0 _||_ X9 score = -1.18E-2
+X0 _||_ X10 score = -5.05E-1
+X0 _||_ X11 score = -9.05E-2
+X0 _||_ X12 score = -1.11E-1
+X0 _||_ X13 score = -1.55E-1
+X0 _||_ X14 score = -6.82E-1
+X0 _||_ X16 score = -5.87E-2
+X0 _||_ X17 score = -1.07E-1
+X0 _||_ X18 score = -2.13E-1
+X0 _||_ X19 score = -4.98E-1
+X1 _||_ X2 score = -7.22E-1
+X1 _||_ X3 score = -3.01E-1
+X1 _||_ X4 score = -1.33E-1
+X1 _||_ X5 score = -8.24E-1
+X1 _||_ X7 score = -4.81E-1
+X1 _||_ X8 score = -7.06E-1
+X1 _||_ X9 score = -5.71E-1
+X1 _||_ X10 score = -1.05E-1
+X1 _||_ X12 score = -2.73E-1
+X1 _||_ X13 score = -3.47E-1
+X1 _||_ X14 score = -9.52E-2
+X1 _||_ X15 score = -6.56E-1
+X1 _||_ X16 score = -6.16E-2
+X1 _||_ X17 score = -4.86E-2
+X1 _||_ X18 score = -2.42E-1
+X1 _||_ X19 score = -2.82E-1
+X2 _||_ X3 score = -3.66E-1
+X2 _||_ X4 score = -3.13E-2
+X2 _||_ X5 score = -2.01E-3
+X2 _||_ X6 score = -1.32E-2
+X2 _||_ X7 score = -5.96E-1
+X2 _||_ X8 score = -7.59E-1
+X2 _||_ X9 score = -1.25E-1
+X2 _||_ X10 score = -7.94E-1
+X2 _||_ X11 score = -8.31E-3
+X2 _||_ X12 score = -1.15E-1
+X2 _||_ X13 score = -3.12E-1
+X2 _||_ X14 score = -8.97E-1
+X2 _||_ X15 score = -4.48E-1
+X2 _||_ X16 score = -5.23E-1
+X2 _||_ X17 score = -3.66E-2
+X2 _||_ X18 score = -3.82E-1
+X2 _||_ X19 score = -4.24E-1
+X3 _||_ X4 score = -5.65E-1
+X3 _||_ X5 score = -8.56E-1
+X3 _||_ X6 score = -1.70E-1
+X3 _||_ X8 score = -6.37E-1
+X3 _||_ X10 score = -5.95E-1
+X3 _||_ X11 score = -3.52E-1
+X3 _||_ X12 score = -5.96E-1
+X3 _||_ X13 score = -4.33E-1
+X3 _||_ X14 score = -5.81E-1
+X3 _||_ X15 score = -5.48E-1
+X3 _||_ X17 score = -9.44E-1
+X3 _||_ X18 score = -6.16E-1
+X3 _||_ X19 score = -5.08E-1
+X4 _||_ X5 score = -3.76E-1
+X4 _||_ X6 score = -3.11E-2
+X4 _||_ X7 score = -9.47E-1
+X4 _||_ X9 score = -5.12E-1
+X4 _||_ X12 score = -6.98E-2
+X4 _||_ X13 score = -6.47E-1
+X4 _||_ X14 score = -4.85E-1
+X4 _||_ X16 score = -7.24E-1
+X4 _||_ X17 score = -1.06E-1
+X4 _||_ X19 score = -6.36E-1
+X5 _||_ X6 score = -1.97E-1
+X5 _||_ X7 score = -1.15E-1
+X5 _||_ X8 score = -4.44E-1
+X5 _||_ X9 score = -3.21E-1
+X5 _||_ X10 score = -3.80E-1
+X5 _||_ X11 score = -4.47E-1
+X5 _||_ X12 score = -3.04E-1
+X5 _||_ X13 score = -5.71E-1
+X5 _||_ X14 score = -3.31E-1
+X5 _||_ X16 score = -3.84E-1
+X5 _||_ X17 score = -6.62E-1
+X5 _||_ X18 score = -5.23E-1
+X5 _||_ X19 score = -5.92E-1
+X6 _||_ X8 score = -5.15E-1
+X6 _||_ X9 score = -1.49E-1
+X6 _||_ X10 score = -4.30E-1
+X6 _||_ X11 score = -2.78E-1
+X6 _||_ X12 score = -6.57E-1
+X6 _||_ X14 score = -5.37E-1
+X6 _||_ X15 score = -3.63E-1
+X6 _||_ X16 score = -5.21E-1
+X6 _||_ X17 score = -1.02E-1
+X6 _||_ X18 score = -1.22E-1
+X7 _||_ X8 score = -7.99E-1
+X7 _||_ X10 score = -1.88E-1
+X7 _||_ X11 score = -9.25E-1
+X7 _||_ X12 score = -3.53E-1
+X7 _||_ X14 score = -7.09E-1
+X7 _||_ X15 score = -5.07E-1
+X7 _||_ X16 score = -4.17E-1
+X7 _||_ X17 score = -4.65E-1
+X7 _||_ X18 score = -6.34E-1
+X7 _||_ X19 score = -7.86E-1
+X8 _||_ X9 score = -6.31E-1
+X8 _||_ X10 score = -7.02E-1
+X8 _||_ X11 score = -8.19E-2
+X8 _||_ X12 score = -2.94E-1
+X8 _||_ X13 score = -7.62E-1
+X8 _||_ X14 score = -2.50E-2
+X8 _||_ X15 score = -1.97E-1
+X8 _||_ X16 score = -5.77E-1
+X8 _||_ X17 score = -8.65E-1
+X8 _||_ X18 score = -3.40E-1
+X8 _||_ X19 score = -4.41E-1
+X9 _||_ X10 score = -4.49E-1
+X9 _||_ X11 score = -1.08E-1
+X9 _||_ X12 score = -4.07E-1
+X9 _||_ X13 score = -4.87E-1
+X9 _||_ X14 score = -6.30E-1
+X9 _||_ X15 score = -3.30E-1
+X9 _||_ X16 score = -2.33E-2
+X9 _||_ X17 score = -4.02E-1
+X9 _||_ X18 score = -7.98E-1
+X9 _||_ X19 score = -2.11E-2
+X10 _||_ X11 score = -3.47E-1
+X10 _||_ X12 score = -5.03E-1
+X10 _||_ X13 score = -8.29E-1
+X10 _||_ X14 score = -2.57E-2
+X10 _||_ X15 score = -4.91E-1
+X10 _||_ X16 score = -3.76E-1
+X10 _||_ X19 score = -7.49E-1
+X11 _||_ X12 score = -4.75E-2
+X11 _||_ X13 score = -2.40E-1
+X11 _||_ X15 score = -5.28E-1
+X11 _||_ X17 score = -1.40E-1
+X11 _||_ X18 score = -5.69E-1
+X11 _||_ X19 score = -7.58E-1
+X12 _||_ X13 score = -6.21E-1
+X12 _||_ X14 score = -8.30E-1
+X12 _||_ X16 score = -6.53E-1
+X12 _||_ X17 score = -2.34E-1
+X12 _||_ X18 score = -7.34E-1
+X12 _||_ X19 score = -4.71E-1
+X13 _||_ X14 score = -8.06E-1
+X13 _||_ X15 score = -8.62E-1
+X13 _||_ X16 score = -7.24E-1
+X13 _||_ X17 score = -4.50E-1
+X13 _||_ X18 score = -3.12E-1
+X13 _||_ X19 score = -2.23E-1
+X14 _||_ X15 score = -2.27E-1
+X14 _||_ X17 score = -8.35E-1
+X14 _||_ X19 score = -8.44E-1
+X15 _||_ X17 score = -5.31E-1
+X15 _||_ X18 score = -9.12E-1
+X16 _||_ X17 score = -6.81E-1
+X16 _||_ X18 score = -1.67E-1
+X16 _||_ X19 score = -2.86E-2
+X17 _||_ X18 score = -8.05E-1
+X18 _||_ X19 score = -6.95E-1
+Independence accepted: X0 _||_ X3 | X15	p = -0.1425
+Independence accepted: X3 _||_ X16 | X7	p = -0.1318
+Independence accepted: X4 _||_ X8 | X15	p = -0.1543
+Independence accepted: X4 _||_ X15 | X11	p = -0.0776
+Independence accepted: X4 _||_ X18 | X10	p = -0.0017
+Independence accepted: X6 _||_ X1 | X7	p = -0.0215
+Independence accepted: X6 _||_ X19 | X7	p = -0.0330
+Independence accepted: X7 _||_ X9 | X3	p = -0.6693
+Independence accepted: X10 _||_ X18 | X4	p = -0.0383
+Independence accepted: X11 _||_ X1 | X14	p = -0.5621
+Independence accepted: X11 _||_ X16 | X14	p = -0.6390
+Independence accepted: X15 _||_ X0 | X19	p = -0.0307
+Independence accepted: X15 _||_ X5 | X12	p = -0.0094
+Independence accepted: X15 _||_ X16 | X19	p = -0.0432
+Independence accepted: X14 _||_ X16 | X11, X18	p = -0.0256
+CPC orientation...

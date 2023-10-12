@@ -1,0 +1,2 @@
+Prefix plugins/BayesEst/example/
+Plugin BayesEst inputfile input.txt outputfile none
